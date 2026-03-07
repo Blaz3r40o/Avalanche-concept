@@ -22,5 +22,4 @@ We will:
 4. Simulate avalanche propagation using a cellular automata model
 5. Interpret the results in practical terms
 
-**This is not a toy model.** The physics here — slope mechanics, fracture thresholds, runout estimation — are the same foundations used by professional avalanche forecasters, used for evaluating snowpack and snowmass conditions of venues, hosting freeride events.
 
