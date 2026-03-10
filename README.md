@@ -23,3 +23,6 @@ We will:
 5. Interpret the results in practical terms
 
 
+---
+**The simulation animation (.gif) does not render inline in the notebook. It will be saved to your local directory upon running the code and can also be viewed directly in the /imahes folder of this repository.**
+
