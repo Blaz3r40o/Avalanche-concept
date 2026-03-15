@@ -26,3 +26,7 @@ We will:
 ---
 **The simulation animation (.gif) does not render inline in the notebook. It will be saved to your local directory upon running the code and can also be viewed directly in the /images folder of this repository.**
 
+
+
+Author: Teodor Evgeniev (@TeodorEvgeniev)
+
